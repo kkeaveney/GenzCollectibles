@@ -1,4 +1,4 @@
-# NFT Collectibles Masterclass project deployed on Ethereum networks
+# GenzCollectibles deployed on Ethereum networks
 
 ### About
 
