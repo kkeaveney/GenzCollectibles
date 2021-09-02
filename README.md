@@ -10,7 +10,7 @@ GenzCollectibles deployed to Ethereum networks
 * [ERC721](https://docs.openzeppelin.com/contracts/3.x/erc721) - ERC721 Token standard (NFTs)
 * [Metamask Wallet](https://metamask.io/) - Metamask Wallet
 * [Yarn](https://yarnpkg.com/) - Alternative package manager to NPM
-* [Truffle](https://www.trufflesuite.com/) - development framework
+* [Hardhat](https://hardhat.org) - development framework
 * [React](https://reactjs.org/) - front end framework
 * [Redux](https://redux.js.org/) - state management framework for React
 * [Solidity](https://docs.soliditylang.org/en/v0.7.4/) - ethereum smart contract language
